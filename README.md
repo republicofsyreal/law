@@ -68,7 +68,7 @@ Any copies, excerpts, or modified versions not originating from the above source
 - **Cơ quan (Authority)**: National Assembly (of Syreal).
 
 
-## Read Me
+## *Read Me*
 Trang bản quyền này là một phần không thể tách rời của tài liệu gốc. Việc xóa, thay đổi hoặc chỉnh sửa trang này được xem là hành vi xâm phạm bản quyền.  
 
 This copyright page is an inseparable part of the original document. Removing, altering, or modifying this page is considered an act of copyright infringement.
